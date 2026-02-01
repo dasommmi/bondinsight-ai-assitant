@@ -94,6 +94,8 @@ npm run dev
   - 마케팅 톤 제거
   - 하방 리스크 강조
 
+<img width="1878" height="1816" alt="image" src="https://github.com/user-attachments/assets/82510011-e3a3-4ddf-bf83-e6ce25c4959f" />
+
 ---
 
 ### ✔ Worst-case 시나리오 분석
@@ -102,6 +104,8 @@ npm run dev
   1. 무엇이 가장 먼저 깨지는가
   2. 잠재적 손실 요인
   3. 주의해야 하는 대상/투자자 유형
+
+<img width="919" height="901" alt="image" src="https://github.com/user-attachments/assets/ef2fdce1-c7d5-4023-ab4a-27dc57f4fcf1" />
 
 ---
 
